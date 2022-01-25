@@ -1,0 +1,20 @@
+{
+  "name": "app",
+  "displayName": "app",
+  "expo": {
+    "name": "app",
+    "slug": "app",
+    "version": "1.0.0",
+
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "build": {
+        "babel": {
+          "include": ["react-router-native"]
+        }
+      }
+    }
+  }
+}

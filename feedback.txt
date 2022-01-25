@@ -1,0 +1,40 @@
+Very thorough summary of your outcomes - good to see the examples shown as well of where the changes were made and based on what. 
+
+- Would have been lovely to see an issues table summary so I could see how many made which errors quickly and then related this to what is happening - also keep relating back to which user stories are affected. The whole cycle is related - you are doing everything based on requirements - so what requirements and how are affected by the testing outcomes. 
+
+ Prototype:
+
+- Good hierarchy on the login screen, although if you had forgotten your password - you would want that to be above the login button to maintain the pattern of how you would look on the screen when you are logging in.
+
+- Pals drop down - there is nothing to indicate it is a drop down... 
+
+- Send invitation now is a button in one colour that doesn't match up the other paths of colour in terms of your hierarchy; on the calendar screen however, you carry the main colour all the way through - so you have quite a few calls to action and things that appear in the same hierarchy. Think about how you will organise things. 
+
+- High fidelity - also means high fidelity of content, so you would fill things out as through it is the real thing, including pictures of people, the users short biography etc. 
+
+- Watch colour being inverted on selection toggles - because there are three it could be okay but usually colour inversion is not a good way to go. This also doesn't allow for much scalability here - will you keep adding choice buttons here if you were to grow definitions going forward in the app? think of scalable architecture. 
+
+- I am not sure accessibility was considered all that much - i can see some good and some not so good contrast, there are a few different navigation methods. I can see discoverability is quite good. 
+
+ 
+
+Test Plan:
+
+- Missing the test plan for your high fidelity prototype?
+
+
+
+Hi Bei, 
+
+I doubt that you can counter the eight principle of architecture. I am very thorough in my marking and in the feedback that I provide, including double marking assignments to make sure the marks are consistent. 
+I do not see any examples of multiple classification, of growth, exemplars etc. I did see examples of focussed navigation.
+
+Having one level of good contrast and a font size does not accessibility make, they are two very small considerations that impact the overall accessibility. Additionally your fonts reduce in size greatly in the events details page and so on - so there are some inconsistencies. However, a large part of it resides with navigation, as we discussed at length in the lecture with examples. There is quite a bit of hidden navigation in your design - when you are on a user, you click on the three dots to then have three more options - if these options are used regularly does it make sense to hide them? That would be impossible for a voiceOver/screen reader to pick up. 
+
+That button - how long does it make sense to keep it without colour for - is it really necessary to set an alert before you save the invite? (Alert is also selected in a different colour to the primary colour that you have carried through your app) 
+
+Even though the column says below average, your prototype scored 2.5/4, which is not bad overall, and actually one of the higher marks that I gave for a high fidelity prototype - your prototype was clean, but there were still some issues throughout. When you create a high fidelity prototype, the high fidelity carries into content as well - you have a lot of lorem ipsum content, which is not what we want to see when we get to high fidelity (this was discussed in 3511). 
+
+A test plan is a test plan - the purpose of it changes when you change fidelities - updating just the tasks does not work - the measure that you would take would also change in a high fidelity prototype. And your task scenarios had some issues also - with leading the user to an answer. I could perhaps revise to give 0.5 marks for the task scenarios, but that is not a test plan. Task scenarios also need to link back to your user stories - what are you actually testing? Are you making sure that you are meeting all the requirements? How are you keeping track of things?
+
+I understand that you were disappointed with your mark, but the average was very low overall across the cohort. 
